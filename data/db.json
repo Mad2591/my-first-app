@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "how we use",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Second Blog",
+      "body": "We use",
+      "author": "yasha",
+      "id": "2"
+    },
+    {
+      "title": "Third Blog",
+      "body": "no use",
+      "author": "rasha",
+      "id": "3"
+    },
+    {
+      "id": "313b",
+      "title": "JOb",
+      "body": "Get money",
+      "author": "mario"
+    },
+    {
+      "id": "abe2",
+      "title": "Best photography",
+      "body": "The Zion Adventure Photog blog establishes owner Arika as an expert of both photography and Zion National Park. The blog’s rugged, playful color scheme of brown and gold evokes nature and sunshine. Its homepage features visual testimonials of happy clients enjoying their adventures. Arika embeds her Instagram Feed directly onto her site, spreading the word about her service and drawing people deeper into her brand through social media marketing.\n",
+      "author": "mario"
+    },
+    {
+      "id": "02a3",
+      "title": "venom",
+      "body": "vubvub",
+      "author": "mario"
+    },
+    {
+      "id": "ecd5",
+      "title": "Madhuri",
+      "body": "xyz",
+      "author": "yasha"
+    }
+  ]
+}
